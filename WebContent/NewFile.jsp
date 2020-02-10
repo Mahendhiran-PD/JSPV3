@@ -12,7 +12,7 @@
 		int number = 20;
 	%>
 	<!-- Expression Tag -->
-	<table border="1">
+	<table border="3">
 		<th>S.no</th>
 		<th>square values</th>
 		<%
